@@ -1,0 +1,15 @@
+D:\建好玩的\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.exe
+D:\建好玩的\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.deps.json
+D:\建好玩的\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.runtimeconfig.json
+D:\建好玩的\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.runtimeconfig.dev.json
+D:\建好玩的\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.dll
+D:\建好玩的\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.pdb
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.csprojAssemblyReference.cache
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.Form1.resources
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.csproj.GenerateResource.cache
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.AssemblyInfoInputs.cache
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.AssemblyInfo.cs
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.csproj.CoreCompileInputs.cache
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.dll
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.pdb
+D:\建好玩的\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.genruntimeconfig.cache
